@@ -40,7 +40,7 @@ while True:
 		if userMoves in SGW:
 			sGW(userMoves)
 		else:
-			print(F.RED+"SAHI WAL DAAL"+F.RESET)
+			print(F.RED+"SAHI WALA DAAL"+F.RESET)
 	elif playAgain=="N" or playAgain=="NO":
 		print("—"*25)
 		print(F.RED+"\nGAME END!!!\nTHANKS FOR PLAYING")
