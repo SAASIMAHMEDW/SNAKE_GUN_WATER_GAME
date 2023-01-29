@@ -1,8 +1,8 @@
 
 def pickOne():
 	choices = ["SNAKE",
-					 "GUN",
-					 "WATER"]
+		   "GUN",
+		   "WATER"]
 	import random
 	#print (choices)
 	random.shuffle(choices)
